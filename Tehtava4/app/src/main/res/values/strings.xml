@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tehtava4</string>
+    <string name="button_text">Lähetä POST-pyyntö</string>
+</resources>
